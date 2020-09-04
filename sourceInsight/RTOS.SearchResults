@@ -1,0 +1,6 @@
+---- SystemCoreClockUpdate Matches (5 in 5 files) ----
+Main.c (f:\myfile\fm33a0\fm33a0xx_freertos_template\usercode):extern void SystemCoreClockUpdate( void );
+system_FM33A0XX.c (f:\myfile\fm33a0\fm33a0xx_freertos_template\fm33a0xx):void SystemCoreClockUpdate (void)            /* Get Core Clock Frequency      */
+system_FM33A0XX.c (f:\myfile\fm33a0\fm33a0xx_freertos_template\project\rte\device\fm33a03xx):void SystemCoreClockUpdate (void)            /* Get Core Clock Frequency      */
+system_FM33A0XX.c (f:\myfile\fm33a0\fm33a0xx_freertos_template\project\rte\device\fm33a04xx):void SystemCoreClockUpdate (void)            /* Get Core Clock Frequency      */
+system_FM33A0XX.h (f:\myfile\fm33a0\fm33a0xx_freertos_template\fm33a0xx\include):extern void SystemCoreClockUpdate (void);
